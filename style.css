@@ -1,0 +1,28 @@
+table{
+    width: 40%;
+    height: 70px;
+    border: 2px solid;
+    border-collapse: collapse;
+    text-align: center;
+    border: 20px;
+    
+}
+h2{
+    text-align: left
+
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: red;
+}
